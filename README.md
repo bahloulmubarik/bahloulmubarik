@@ -1,6 +1,8 @@
 <h1 align="center"> Hi 👋, I'm Bahloul Mubarik</h1>
-<h3 align="center">Living and Loving Blockchain</h3>
+<h3 align="center">Living and Loving Blockchain </h3>
 
+
+<img align="right" alt="Blockchain" width = "400" src="https://images.app.goo.gl/qbyzUWvXKPdAFocMA">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahloulmubarik&label=Profile%20views&color=0e75b6&style=flat" alt="bahloulmubarik" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bahloulmubarik" alt="bahloulmubarik" /></a> </p>
