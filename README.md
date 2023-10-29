@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Bahloul Mubarik</h1>
+<h1 align="center"> Hi 👋, I'm Bahloul Mubarik</h1>
 <h3 align="center">Living and Loving Blockchain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahloulmubarik&label=Profile%20views&color=0e75b6&style=flat" alt="bahloulmubarik" /> </p>
