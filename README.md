@@ -1,3 +1,4 @@
+![logo](https://github.com/bahloulmubarik/bahloulmubarik/blob/main/github%20banner.jpg)
 <h1 align="center"> Hi 👋, I'm Bahloul Mubarik</h1>
 <h3 align="center">Living and Loving Blockchain </h3>
 
